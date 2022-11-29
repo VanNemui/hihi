@@ -1,0 +1,17 @@
+Yêu cầu bài tập: Xây dựng một chương trình đơn giản giúp bác tổ trưởng tổ
+dân phố quản lý thông tin các cuốn sách trong một thư viện (tủ sách nhỏ) của tổ
+dân phố 7, phường Bách Khoa. Chương trình có giao diện dòng lệnh (console
+application), khi người dùng muốn thực hiện một chức năng thì sẽ nhập vào số
+thứ tự của mục chức năng tương ứng → nhấn Enter và chương trình sẽ thực thi.
+◼ Các chức năng chính của chương trình gồm có:
+1. Xem thông tin của thư viện → hiển thị thông tin thư viện như: tên thư viện,
+số đầu sách hiện có trong thư viện và danh sách tiêu đề các cuốn sách
+2. Thêm đầu sách mới → thêm một đầu sách mới vào thư viện
+3. Tìm kiếm sách → tìm kiếm thông tin đầu sách trong thư viện theo ID đầu
+sách
+4. Mượn một cuốn sách → khi có người đến mượn một cuốn sách, bác tổ
+trưởng sẽ dùng chức năng này để cập nhật số lượng sách còn lại của đầu
+sách tương ứng
+5. Trả một cuốn sách → khi có người đến trả một cuốn sách, chức năng này
+giúp cập nhật số lượng sách của đầu sách trong thư viện
+6. Kết thúc và thoát chương trình
