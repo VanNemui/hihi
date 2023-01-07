@@ -1,4 +1,4 @@
-package QuanLiSinhVien;
+package baitap.QuanLiSinhVien;
 
 public class testSinhVien {
 	public static void main (String[]args) {

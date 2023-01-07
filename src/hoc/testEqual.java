@@ -1,4 +1,4 @@
-package week31;
+package hoc;
 
 public class testEqual {
 	public static void main(String [] args) {

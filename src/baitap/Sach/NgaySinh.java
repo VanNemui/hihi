@@ -1,4 +1,4 @@
-package week31;
+package baitap.Sach;
 
 public class NgaySinh {
 	private int Ngay;

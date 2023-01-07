@@ -1,4 +1,4 @@
-package QuanLiSinhVien;
+package baitap.QuanLiSinhVien;
 
 import java.util.Objects;
 

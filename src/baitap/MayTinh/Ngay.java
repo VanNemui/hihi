@@ -1,4 +1,4 @@
-package MayTinh;
+package baitap.MayTinh;
 
 public class Ngay {
 		private int ngayy;

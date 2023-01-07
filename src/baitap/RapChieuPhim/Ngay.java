@@ -1,4 +1,4 @@
-package RapChieuPhim;
+package baitap.RapChieuPhim;
 
 public class Ngay {
 	private int Ngay;

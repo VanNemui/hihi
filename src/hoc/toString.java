@@ -1,4 +1,4 @@
-package week31;
+package hoc;
 
 /* toString là để hiển thị một số thông tin của đối tượng
  * mà không cần phải ghi rõ trong hàm main

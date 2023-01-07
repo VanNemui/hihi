@@ -1,4 +1,4 @@
-package QuanLiSinhVien;
+package baitap.QuanLiSinhVien;
 
 public class Ngay {
 	private int ngayy;

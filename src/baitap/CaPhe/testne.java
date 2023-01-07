@@ -1,4 +1,4 @@
-package week31;
+package baitap.CaPhe;
 
 public class testne {
 	public static void main (String [] args) {

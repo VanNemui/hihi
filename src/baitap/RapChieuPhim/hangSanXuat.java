@@ -1,4 +1,4 @@
-package RapChieuPhim;
+package baitap.RapChieuPhim;
 
 public class hangSanXuat {
 	private String tenHang;

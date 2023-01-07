@@ -1,4 +1,4 @@
-package MayTinh;
+package baitap.MayTinh;
 
 public class testMayTinh {
 	public static void main (String [] args) {

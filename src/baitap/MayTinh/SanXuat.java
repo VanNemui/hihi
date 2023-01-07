@@ -1,4 +1,4 @@
-package MayTinh;
+package baitap.MayTinh;
 
 public class SanXuat {
 	private String tenHang;

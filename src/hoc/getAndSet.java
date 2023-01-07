@@ -1,4 +1,4 @@
-package week31;
+package hoc;
 //getter and setter là đảm bảo tính đóng gói của đối tượng
 // getter là hiển thị giá trị của đối tượng
 // setter là thiết lập lại giá trị của đối tượng
